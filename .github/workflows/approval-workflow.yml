@@ -1,1 +1,2 @@
 name: Team Powell's Fan Club's's approval workflow
+on: pull_request_review
